@@ -1,0 +1,7 @@
+1,Mini Cars
+2,Comfort Cars
+3,Cruisers Cars
+4,Small Cars
+5,Electric Cars
+6,Mountain Cars
+7,Super Car
