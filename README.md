@@ -2,7 +2,7 @@
 
 # Công nghệ sử dụng:
 - Apache Hadoop, Apache Hive
-- Service: AWS EMR, AWS EC2
+- Service: AWS EMR, AWS EC2, AWS S3
 
 # Thành viên:
 - Lê Khánh An - 20119316
